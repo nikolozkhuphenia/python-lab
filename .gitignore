@@ -1,4 +1,4 @@
-/lab/
+lab/
 .DS_Store
-/.idea/
-/__pycache__/
+.idea/
+__pycache__/
