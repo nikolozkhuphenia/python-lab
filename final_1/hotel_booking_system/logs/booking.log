@@ -1,8 +1,5 @@
-INFO:final_1.hotel_booking_system.models.hotel:Room was booked by Ninja At: 2025-10-09 12:10:08.247771
-INFO:final_1.hotel_booking_system.models.hotel:Room was booked by Ninja At: 2025-10-09 12:10:08.247895
-INFO:final_1.hotel_booking_system.models.hotel:Booking was canceled by Ninja At: 2025-10-09 12:10:08.247917
-INFO:final_1.hotel_booking_system.models.hotel:Room was booked by Ninja At: 2025-10-09 12:10:08.247935
-INFO:final_1.hotel_booking_system.models.hotel:Room was booked by Ninja At: 2025-10-09 12:11:00.532118
-INFO:final_1.hotel_booking_system.models.hotel:Room was booked by Ninja At: 2025-10-09 12:11:00.532196
-INFO:final_1.hotel_booking_system.models.hotel:Booking was canceled by Ninja At: 2025-10-09 12:11:00.532217
-INFO:final_1.hotel_booking_system.models.hotel:Room was booked by Ninja At: 2025-10-09 12:11:00.532236
+
+INFO:final_1.hotel_booking_system.models.hotel:Room was booked by Ninja At: 2025-10-09 12:21:53.554491
+INFO:final_1.hotel_booking_system.models.hotel:Room was booked by Ninja At: 2025-10-09 12:21:53.554564
+INFO:final_1.hotel_booking_system.models.hotel:Booking was canceled by Ninja At: 2025-10-09 12:21:53.554585
+INFO:final_1.hotel_booking_system.models.hotel:Room was booked by Ninja At: 2025-10-09 12:21:53.554603
